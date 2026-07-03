@@ -1,2 +1,4 @@
 # Nitin---first
-This is first repo file starting with it
+This is my first repo in github
+<br>
+Author - Nitin Sharma
